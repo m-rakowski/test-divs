@@ -11,4 +11,4 @@ nothing
 
 # Fix:
 
-add {position: relative} to React Aria <RadioGroup> to fix https://github.com/adobe/react-spectrum/issues/5094
+add {position: relative} to React Aria's RadioGroup to fix https://github.com/adobe/react-spectrum/issues/5094
