@@ -139,7 +139,7 @@ function App() {
             (The page will expand and scroll to white space)
           </p>
           <RadioGroup>
-            <Label>Favorite pet</Label>
+            <Label> Click here → </Label>
             <Radio value="dogs">Dog</Radio>
             <Radio value="cats">Cat</Radio>
             <Radio value="dragon">Dragon</Radio>
