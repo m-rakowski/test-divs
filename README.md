@@ -1,4 +1,4 @@
-Bug:
+# Bug:
 
 1. Scroll down
 2. Pick favorite dog
@@ -8,3 +8,7 @@ white page
 
 expected:
 nothing
+
+# Fix:
+
+add {position: relative} to React Aria <RadioGroup> to fix https://github.com/adobe/react-spectrum/issues/5094
